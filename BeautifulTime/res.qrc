@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>html/index.html</file>
+        <file>icons/time.png</file>
+        <file>icons/quit.png</file>
+        <file>html/js.js</file>
+    </qresource>
+</RCC>
